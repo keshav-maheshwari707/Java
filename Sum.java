@@ -7,7 +7,8 @@ public class Sum {
         
         int num1 = myObj.nextInt();
         int num2 = myObj.nextInt();
+        int sum = num1 + num2;
 
-        System.out.println(num1 + num2);
+        System.out.println(sum);
     }
 }
