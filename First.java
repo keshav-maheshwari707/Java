@@ -44,4 +44,3 @@ public class First {
 // 1. print() same line mein display karega.
 // 2. println() next line mein display karega.
 // 3. "\n" next line mein display karega.
-
